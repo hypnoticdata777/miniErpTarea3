@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Mini ERP",
+            "request": "launch",
+            "mainClass": "com.minierp.Main",
+            "projectName": "miniErp_carlosSanchezGonzalez_tarea3"
+        }
+    ]
+}
